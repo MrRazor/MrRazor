@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrRazor
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Spring Boot, JS Frontend Frameworks.
+- 🌱 I’m currently learning Spring Boot, Jakarta EE and JS Frameworks.
